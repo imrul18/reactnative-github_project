@@ -1,0 +1,5 @@
+export const LOAD_ALL_DATA = "LOAD_ALL_DATA";
+export const LOAD_TARGET_DATA = "LOAD_TARGET_DATA";
+export const LOAD_FAVOURITE_DATA = "LOAD_FAVOURITE_DATA";
+export const ADD_FAVOURITE = "ADD_FAVOURITE";
+export const SET_AUTH = "SET_AUTH";
